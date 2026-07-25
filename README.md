@@ -164,7 +164,7 @@ Supply-Chain-Analytics-Dashboard
 **Utkarsh Yadav**
 
 - GitHub: https://github.com/uttkarshyadavv
-- LinkedIn: (https://www.linkedin.com/in/utkarsh-yadavv/)
+- LinkedIn: https://www.linkedin.com/in/utkarsh-yadavv/
 
 ---
 
